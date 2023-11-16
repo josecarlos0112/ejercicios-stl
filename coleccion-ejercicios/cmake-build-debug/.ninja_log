@@ -1,0 +1,11 @@
+# ninja log v5
+8	616	7218300720219881	CMakeFiles/coleccion_ejercicios.dir/main.cpp.obj	1c45b078dd758357
+617	759	7218300721551401	coleccion_ejercicios.exe	83ed410deaf6a39d
+1	696	7218304789256589	CMakeFiles/coleccion_ejercicios.dir/ejercicio1.cpp.obj	ea887cd7850dc5e4
+17	147	7218304783765684	CMakeFiles/coleccion_ejercicios.dir/triangulo.cpp.obj	4c024d7807f34a93
+13	141	7218308874838497	CMakeFiles/coleccion_ejercicios.dir/circulo.cpp.obj	bd2b93e741263412
+23	751	7218308880975207	CMakeFiles/coleccion_ejercicios.dir/ejercicio2.cpp.obj	5ded8512832f9766
+15	134	7218310433431919	CMakeFiles/coleccion_ejercicios.dir/circulo.cpp.obj	bd2b93e741263412
+6	648	7218310438593439	CMakeFiles/coleccion_ejercicios.dir/triangulo.cpp.obj	4c024d7807f34a93
+5	97	7218310872534610	CMakeFiles/coleccion_ejercicios.dir/triangulo.cpp.obj	4c024d7807f34a93
+13	552	7218310877094213	CMakeFiles/coleccion_ejercicios.dir/ejercicio2.cpp.obj	5ded8512832f9766
